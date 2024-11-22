@@ -34,7 +34,7 @@ Run the following command:
 ```
 
 2. Check Server Status and Test
-- Access the frontend at `http://localhost:3000`
+- Access `http://localhost:3000`
 - Use the "확인하기" button to verify that the server is running properly.
 
-3. Upload images from the `./samples` directory to test the digit recognition functionality.
+3. Upload images from the `./sample` directory to test the digit recognition functionality.
