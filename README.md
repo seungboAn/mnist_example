@@ -28,9 +28,9 @@ To start the Backend server:
 Run the following command:
 
 ```bash
-    cd ./backend
-
-    python app.py
+   cd ./backend
+   pip install -r .\requirements.txt
+   python app.py
 ```
 
 2. Check Server Status and Test
